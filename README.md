@@ -6,3 +6,4 @@
 |------|-------------|
 |growth | [growth mind](https://alshammari55.github.io/reading-note-/) |
 |mark down | [link](https://alshammari55.github.io/reading-note-/read-01) |
+|git | [growth mind](https://alshammari55.github.io/reading-note-/gitcommand) |
